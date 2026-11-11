@@ -1,0 +1,10 @@
+[project]
+name = "CloseOreUI-iOS-IPA-Patcher"
+version = "1.0.0"
+description = "CloseOreUI-iOS-IPA-Patcher"
+requires-python = ">=3.11"
+dependencies = [
+    "tkinterdnd2",
+]
+
+[tool.uv]
