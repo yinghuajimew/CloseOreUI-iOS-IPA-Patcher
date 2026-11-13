@@ -46,8 +46,6 @@
   "msg_resign": "生成的新 IPA 需要重新签名。",
   "help_title": "软件说明",
   "help_text": "Minecraft iOS Ore UI 自动处理工具\n\n功能：\n  • 不勾选“注入 dylib”：仅去除 Ore UI，输出 _No_oreui.ipa\n  • 勾选“注入 dylib”：去除 Ore UI 并注入 3 个 dylib，输出 _No_oreui_all.ipa\n\n使用：\n  1. 把 .ipa 拖到窗口任意位置，或用“添加文件”多选；\n  2. 选择是否注入 dylib；\n  3. 可选指定输出目录；\n  4. 点“开始处理”，下方查看日志。\n\n注意：\n  • 原 IPA 不会被覆盖，新 IPA 需重新签名才能安装。\n  • 注入需要本目录有 zsign.exe 和 3 个 dylib。\n  • 拖入需安装 tkinterdnd2：pip install tkinterdnd2\n  • 修改游戏二进制可能违反使用条款，仅供学习研究。",
-  "credits_title": "鸣谢",
-  "credits_text": "鸣谢\n========================================\n\n【项目作者】\n  •xiaoli，奕帆雨顺\n\n【逆向与补丁思路】\n  • （在此填写贡献者）\n\n【测试与反馈】\n  • （在此填写测试人员）\n\n【特别鸣谢】\n  • （在此填写特别感谢的人或项目）\n\n感谢以上人员对本项目的贡献与支持。",
   "lang_title": "选择语言",
   "btn_close": "关闭"
 }

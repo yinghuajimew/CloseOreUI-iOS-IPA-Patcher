@@ -46,8 +46,6 @@
   "msg_resign": "새 IPA는 설치 전에 다시 서명해야 합니다.",
   "help_title": "도움말",
   "help_text": "Minecraft iOS Ore UI 자동 처리 도구\n\n기능:\n  • \"dylib 주입\" 미체크: Ore UI만 제거, _No_oreui.ipa 출력\n  • \"dylib 주입\" 체크: Ore UI 제거 + dylib 3개 주입, _No_oreui_all.ipa 출력\n\n사용법:\n  1. .ipa 를 창 어디에나 드롭하거나 \"파일 추가\"로 다중 선택;\n  2. dylib 주입 여부 선택;\n  3. 필요하면 출력 폴더 지정;\n  4. \"시작\"을 누르고 아래 로그 확인.\n\n주의:\n  • 원본 IPA는 덮어쓰지 않습니다. 새 IPA는 다시 서명해야 합니다.\n  • 주입에는 이 폴더에 zsign.exe 와 dylib 3개가 필요합니다.\n  • 드래그 앤 드롭에는 tkinterdnd2 필요: pip install tkinterdnd2\n  • 게임 바이너리 수정은 이용 약관을 위반할 수 있습니다. 학습/연구용입니다.",
-  "credits_title": "감사의 글",
-  "credits_text": "감사의 글\n========================================\n\n[프로젝트 작성자]\n  • xiaoli\n\n[리버스 엔지니어링 및 패치 아이디어]\n  • 奕帆雨顺\n\n[테스트 및 피드백]\n  • xiaoli, 奕帆雨顺\n\n[특별 감사]\n  • 樱花祭喵 (저장소 제공)\n  • 银果集团 (디버깅 및 적응 기회 제공)\n\n위 모든 분들의 기여와 지원에 감사드립니다.",
   "lang_title": "언어 선택",
   "btn_close": "닫기"
 }

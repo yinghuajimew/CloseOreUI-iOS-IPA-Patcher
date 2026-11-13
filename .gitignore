@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.ipa
+*.tmp
+.zsign_debug/
+*_OreUI_v6_result.txt
+*_OreUI_v6_diagnostic.txt

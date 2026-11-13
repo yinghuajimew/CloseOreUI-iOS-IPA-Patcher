@@ -46,8 +46,6 @@
   "msg_resign": "The new IPA must be re-signed before installing.",
   "help_title": "Help",
   "help_text": "Minecraft iOS Ore UI Auto Patcher\n\nFeatures:\n  • Unchecked \"inject dylibs\": remove Ore UI only, output _No_oreui.ipa\n  • Checked \"inject dylibs\": remove Ore UI and inject 3 dylibs, output _No_oreui_all.ipa\n\nUsage:\n  1. Drop .ipa files anywhere in the window, or use \"Add Files\";\n  2. Choose whether to inject dylibs;\n  3. Optionally choose an output folder;\n  4. Click \"Start\" and check the log below.\n\nNotes:\n  • The original IPA is never overwritten; new IPA must be re-signed.\n  • Injection requires zsign.exe and 3 dylibs in this folder.\n  • Drag & drop requires tkinterdnd2: pip install tkinterdnd2\n  • Modifying game binaries may violate the terms of use; for study only.",
-  "credits_title": "Credits",
-  "credits_text": "Credits\n========================================\n\n[Project Author]\n  • (fill in author/maintainer)\n\n[Reverse Engineering & Patch Ideas]\n  • (fill in contributors)\n\n[Testing & Feedback]\n  • (fill in testers)\n\n[Special Thanks]\n  • (fill in special thanks)\n\nThanks to all of the above for their contributions and support.",
   "lang_title": "Select Language",
   "btn_close": "Close"
 }
